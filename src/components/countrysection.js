@@ -2,6 +2,7 @@ import React from 'react';
 import { IoChevronForwardCircleSharp } from 'react-icons/io5';
 import { Link } from 'react-router-dom';
 import PropTypes from 'prop-types';
+import '../styles/app.css';
 
 function CountrySection(props) {
   const { name, population, flag } = props;
@@ -16,7 +17,7 @@ function CountrySection(props) {
           <p>{name}</p>
           <div className="population">
             population
-            <span>:</span>
+            <span className="colon-class">:</span>
             <p>{population}</p>
           </div>
         </div>
