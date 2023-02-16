@@ -1,5 +1,153 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
 body {
-  background-color: blue;
+  background-color: #3445e0;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 1.7rem;
+  margin-left: 10px;
+  margin-right: 10px;
   color: white;
-  border: 1px solid white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 300;
+  font-size: 1rem;
+}
+
+.Link {
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  display: flex;
+}
+
+.navbar {
+  display: flex;
+  gap: 9px;
+  height: 6rem;
+  width: 6rem;
+}
+
+.world-map {
+  width: 100%;
+  height: 10rem;
+}
+
+.search-Container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 1rem 0;
+  color: #fff;
+  margin-bottom: 2rem;
+}
+
+.form-search {
+  display: flex;
+  align-items: center;
+  border: 2px solid white;
+  border-radius: 1rem;
+  padding: 0.1rem 0.4rem;
+  color: #fff;
+}
+
+.input-search {
+  border: none;
+  background-color: #3445e0;
+  color: #fff;
+  height: 1.5rem;
+  border-radius: 0.5rem;
+}
+
+input:focus {
+  outline: none;
+}
+
+.Filter {
+  border-radius: 1rem;
+  border: 2px solid white;
+  color: #fff;
+  background-color: #3445e0;
+  margin-left: 0.2rem;
+  height: 1.5rem;
+  width: 8rem;
+}
+
+.world-population {
+  text-align: center;
+  padding: 0.5rem 0;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1rem;
+  font-weight: 300;
+}
+
+.DISPLAY {
+  display: grid;
+  grid-template-columns: auto auto;
+}
+
+.select-continent {
+  display: flex;
+  gap: 8px;
+}
+
+.flags {
+  width: 16rem;
+  height: 12rem;
+}
+
+.flag {
+  display: flex;
+  justify-content: space-around;
+}
+
+.country-info {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}
+
+.population {
+  display: flex;
+}
+
+.country-portion {
+  text-decoration: none;
+  color: white;
+}
+
+.country-con {
+  border: solid 1px white;
+  padding: 0.5rem;
+}
+
+.colon-class {
+  margin: 0 0.2rem;
+}
+
+.one-flag {
+  width: 40%;
+  height: 30%;
+}
+
+.country-detailContainer {
+  display: flex;
+  justify-content: space-between;
+  padding: 2rem 1rem;
+  border-bottom: 2px solid white;
+  margin: 2rem;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1rem;
+  font-weight: 300;
+}
+
+.flags-details {
+  display: flex;
+  justify-content: center;
 }
