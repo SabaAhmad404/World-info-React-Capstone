@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Country information renders correctly components 1`] = `ShallowWrapper {}`;
+
+exports[`Country information renders correctly components 2`] = `ShallowWrapper {}`;
