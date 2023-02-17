@@ -33,7 +33,6 @@ world-population is a single-page website where users can view all countries in 
     jest
     Html/CSS
     
-        
    ##  Key Features <a name="key-features"></a>
 
 - **User can see total continent's countries**
@@ -126,3 +125,4 @@ Give a ⭐️ if you like this project!
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](MIT.md) licensed.
+
