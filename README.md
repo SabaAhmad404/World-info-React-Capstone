@@ -37,7 +37,7 @@ world-population is a single-page website where users can view all countries in 
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
--[live](https://world-kx2q.onrender.com/)
+-[Live Version](https://world-kx2q.onrender.com/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
