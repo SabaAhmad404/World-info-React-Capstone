@@ -118,9 +118,14 @@ Give a ⭐️ if you like this project!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- ACKNOWLEDGEMENTS -->
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
+[ Nelson Sakwa on Behance.](https://www.behance.net/sakwadesignstudio)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 📝 License <a name="license"></a>
-This project is [MIT](./LICENSE) licensed.
+
+This project is [MIT](MIT.md) licensed.
